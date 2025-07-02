@@ -91,6 +91,6 @@ Deployment: Docker, Kubernetes, Flask, FastAPI, Streamlit
 Conclusion
 Machine Learning model implementation is a structured process that transforms data into actionable intelligence. From defining the problem and preparing data to training and deploying the model, each step plays a critical role in building reliable, scalable, and efficient solutions. As machine learning continues to evolve, the ability to effectively implement models is a highly valued skill across industries such as healthcare, finance, marketing, and technology.
 
-GURRAM RANGA JANVITH
-Company: CODTECH IT SOLUTIONS
-Email:g.rangajanvith@gmial.com
+* GURRAM RANGA JANVITH
+* Company: CODTECH IT SOLUTIONS
+* Email:g.rangajanvith@gmial.com
